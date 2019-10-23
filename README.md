@@ -16,7 +16,8 @@ Descrição do projeto:
 
 -O atendente irá identificar de qual cliente (ou mesa) foi acionado a solicitação e irá realizar o atendimento e irá desativar o sinal visual.
 
--O microcontrolador do dispositivo do cliente enviará um sinal para o microcontrolador do atendente através de uma rede sem fio, através de uma saída (botão).
+-Quando acionado por uma saída (botão), o microcontrolador do dispositivo do cliente enviará um sinal para o microcontrolador do atendente através de uma rede sem fio.
 
--O microcontrolador do atendente acionará uma entrada (led, display ou outros). E o mesmo irá acionar uma saída (botão) para desativar a entrada.
+-O microcontrolador do atendente acionará uma entrada (led, display ou outros). E o mesmo deve ter uma saída (botão) para desativar a entrada (led).
 
+![pager-token](https://user-images.githubusercontent.com/56637784/67415955-561daf00-f59c-11e9-8ce9-d8ef93a2048b.jpg)

@@ -7,7 +7,6 @@ Objetivo do projeto:
 -Dispositivo para solicitação de atendimento entre cliente e atendente em restaurantes
 
 Descrição do projeto:
-
 -Sistema de comunicação entre, no mínimo, dois dispositivos através de uma rede de comunicação, programados em linguagem Micropython.
 
 -Um dos dispositivos será acionado pelo cliente, enviando um sinal para o outro e este sinalizará o atendente, através de um dispositivo visual.

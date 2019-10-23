@@ -9,5 +9,6 @@ Descrição do projeto:
 -Sistema de comunicação entre, no mínimo, dois dispositivos através de uma rede de comunicação, programados em linguagem Micropython.
 -Um dos dispositivos será acionado pelo cliente, enviando um sinal para o outro e este sinalizará o atendente, através de um dispositivo visual.
 -O atendente irá identificar de qual cliente (ou mesa) foi acionado a solicitação e irá realizar o atendimento e irá desativar o sinal visual.
+-O microcontrolador do dispositivo do cliente enviará um sinal para o microcontrolador do atendente através de uma rede sem fio.
+-O microcontrolador do atendente irá acionar
 
-https://i0.wp.com/www.pos-software.de/wp-content/uploads/2015/09/Pager-untersetzer-funkruf.jpg?w=450&ssl=1
